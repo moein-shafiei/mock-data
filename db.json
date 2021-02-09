@@ -20,5 +20,65 @@
         "price": "5",
         "unit": "CAD"
       }
+    ],
+    "menu1": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
+    ],
+    "menu2": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
+    ],
+    "menu3": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
+    ],
+    "menu4": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
+    ],
+    "menu5": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
     ]
 }
