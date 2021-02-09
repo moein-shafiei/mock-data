@@ -1,0 +1,24 @@
+{
+    "members": [
+      {
+        "id": "0001",
+        "contacts":  [ {"name": "Irene Adler"}, {"name": "Jon Adler"}, {"name": "Dian Adler"} ]
+      },
+      {
+        "id": "0002",
+        "contacts": [ {"name": "Irene"} ]
+      }
+    ],
+    "menu": [
+      {
+        "name": "Beer",
+        "price": "4",
+        "unit": "CAD"
+      },
+      {
+        "name": "Cocktails/Wine",
+        "price": "5",
+        "unit": "CAD"
+      }
+    ]
+}
